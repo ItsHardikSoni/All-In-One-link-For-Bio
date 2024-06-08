@@ -70,10 +70,15 @@ h1 {
     font-size: 24px;
     color: #555;
     text-decoration: none;
+    text-decoration: none;
+  background-color: transparent;
+  border: none;
 }
 
 .social-icon:hover {
     color: #000;
+    background-color: #ddd;
+    background-color: transparent;
 }
 
 .buttons {
